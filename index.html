@@ -81,7 +81,7 @@
           devNicknamesLink.href = '#'; // Prevent default link behavior
           devNicknamesLink.textContent = char.DevNicknames;
           devNicknamesLink.addEventListener('click', () => {
-			audioSource.src = `https://github.com/Enspiron/WorldFlipperPlayer/tree/main/character_unique/character_unique/${char.DevNicknames}/${char.DevNicknames}.mp3`;
+			audioSource.src = `https://github.com/Enspiron/WorldFlipperPlayer/tree/main/character_unique${char.DevNicknames}/${char.DevNicknames}.mp3`;
       		audio.load();
             const mp3Directory = `/character_unique/${char.DevNicknames}/${char.DevNicknames}.mp3`;
             mp3SourceInput.value = mp3Directory;
