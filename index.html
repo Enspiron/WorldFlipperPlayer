@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>My MP3 Player</title>
+  <link href="index.css" rel="stylesheet" type="text/css">
+</head>
+<body>
+	<div class="split left">
+	<input type="text" id="searchInput" placeholder="Search...">
+	
+	<table id="charTable">
+    <div id="player" class="split right">
+    <input type="text" id="mp3Source" placeholder="Enter MP3 URL">
+    <button onclick="changeAudio()">Change Audio</button>
+    <audio id="audio" controls>
+      <source id="audioSource" type="audio/mpeg">
+      Your browser does not support the audio element.
+    </audio>
+    <div class="controls">
+      <button onclick="playAudio()">Play</button>
+      <button onclick="pauseAudio()">Pause</button>
+      <button onclick="stopAudio()">Stop</button>
+    </div>
+  </div>
+		
+		<thead>
+    <tr>
+      <th>DevNicknames</th>
+      <th>ENName</th>
+    </tr>
+  </thead>
+  <tbody></tbody>
+</table><br>
+</div>
+
+
+  <script>
+    const audio = document.getElementById('audio');
+    const audioSource = document.getElementById('audioSource');
+
+    function changeAudio() {
+      const mp3Input = document.getElementById('mp3Source').value;
+      audioSource.src = mp3Input;
+      audio.load();
+    }
+
+    // Rest of your audio control functions here (playAudio, pauseAudio, stopAudio)
+	  
+	// Access the characters object (replace with your actual data source if needed)
+
+
+  // Fetch the JSON data
+  fetch('chars.json')
+    .then(response => response.json())
+    .then(data => {
+      const charTable = document.getElementById('charTable');
+      const tbody = charTable.querySelector('tbody');
+      const mp3SourceInput = document.getElementById('mp3Source');
+
+      // Initial display of all characters
+      displayCharacters(data.chars);
+
+      // Dynamic search functionality
+      const searchInput = document.getElementById('searchInput');
+      searchInput.addEventListener('keyup', () => {
+        const searchTerm = searchInput.value.toLowerCase();
+        const filteredChars = data.chars.filter(char => {
+          return char.DevNicknames.toLowerCase().includes(searchTerm) ||
+                 char.ENName.toLowerCase().includes(searchTerm);
+        });
+        displayCharacters(filteredChars);
+      });
+
+      function displayCharacters(chars) {
+        tbody.innerHTML = ''; // Clear previous rows
+        chars.forEach(char => {
+          const row = document.createElement('tr');
+
+          // Create a clickable link for DevNicknames
+          const devNicknamesLink = document.createElement('a');
+          devNicknamesLink.href = '#'; // Prevent default link behavior
+          devNicknamesLink.textContent = char.DevNicknames;
+          devNicknamesLink.addEventListener('click', () => {
+			audioSource.src = `/character_unique/${char.DevNicknames}/${char.DevNicknames}.mp3`;
+      		audio.load();
+            const mp3Directory = `/character_unique/${char.DevNicknames}/${char.DevNicknames}.mp3`;
+            mp3SourceInput.value = mp3Directory;
+          });
+
+          const devNicknamesCell = document.createElement('td');
+          devNicknamesCell.appendChild(devNicknamesLink);
+
+          const enNameCell = document.createElement('td');
+          enNameCell.textContent = char.ENName;
+
+          row.appendChild(devNicknamesCell);
+          row.appendChild(enNameCell);
+          tbody.appendChild(row);
+        });
+      }
+    })
+    .catch(error => console.error('Error fetching or parsing JSON:', error));
+  </script>
+</body>
+</html>
