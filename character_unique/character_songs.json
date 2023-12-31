@@ -1,0 +1,1130 @@
+{
+    "characters": {
+        "airship_captain": {
+            "songs": [
+                "airship_captain.mp3"
+            ]
+        },
+        "alice_smr20": {
+            "songs": [
+                "alice_smr20.mp3"
+            ]
+        },
+        "alk": {
+            "songs": [
+                "alk_ceremony.mp3"
+            ]
+        },
+        "alk_3halfanv": {
+            "songs": [
+                "alk_3halfanv.mp3"
+            ]
+        },
+        "amulet_bosslady": {
+            "songs": [
+                "amulet_bosslady.mp3"
+            ]
+        },
+        "anger_investigator": {
+            "songs": [
+                "anger_investigator.mp3"
+            ]
+        },
+        "aqua": {
+            "songs": [
+                "aqua.mp3"
+            ]
+        },
+        "artificialeye_sniper": {
+            "songs": [
+                "artificialeye_sniper.mp3"
+            ]
+        },
+        "asymmetry_birdgirl": {
+            "songs": [
+                "asymmetry_birdgirl.mp3"
+            ]
+        },
+        "battle_maid_xm19": {
+            "songs": [
+                "christmas_battle_maid.mp3"
+            ]
+        },
+        "beast_shaman": {
+            "songs": [
+                "beast_shaman.mp3"
+            ]
+        },
+        "beatrix": {
+            "songs": [
+                "beatrix.mp3",
+                "beatrix_arrange.mp3"
+            ]
+        },
+        "bigwing_shaman": {
+            "songs": [
+                "bigwing_shaman.mp3"
+            ]
+        },
+        "bigwing_shaman_smr21": {
+            "songs": [
+                "bigwing_shaman_smr21.mp3"
+            ]
+        },
+        "big_gunner": {
+            "songs": [
+                "big_gunner.mp3"
+            ]
+        },
+        "blackflower_wiz": {
+            "songs": [
+                "blackflower_wiz.mp3"
+            ]
+        },
+        "blackflower_wiz_smr22": {
+            "songs": [
+                "blackflower_wiz_smr22.mp3"
+            ]
+        },
+        "black_wolf_knight": {
+            "songs": [
+                "black_wolf_knight.mp3"
+            ]
+        },
+        "black_wolf_knight_wt23": {
+            "songs": [
+                "black_wolf_knight_wt23.mp3"
+            ]
+        },
+        "blade_dancer": {
+            "songs": [
+                "blade_dancer.mp3"
+            ]
+        },
+        "blade_dancer_wt23": {
+            "songs": [
+                "blade_dancer_wt23.mp3"
+            ]
+        },
+        "blade_witch": {
+            "songs": [
+                "blade_witch.mp3"
+            ]
+        },
+        "blindfold_agent": {
+            "songs": [
+                "blindfold_agent.mp3"
+            ]
+        },
+        "blindness_gunner_1halfanv": {
+            "songs": [
+                "blindness_gunner_1halfanv.mp3"
+            ]
+        },
+        "bodysuit_trooper": {
+            "songs": [
+                "bodysuit_trooper.mp3"
+            ]
+        },
+        "bodysuit_trooper_smr21": {
+            "songs": [
+                "bodysuit_trooper_smr21.mp3"
+            ]
+        },
+        "brown_fighter": {
+            "songs": [
+                "sonya_1.mp3"
+            ]
+        },
+        "brown_fighter_dst21": {
+            "songs": [
+                "brown_fighter_dst21.mp3"
+            ]
+        },
+        "cagliostro": {
+            "songs": [
+                "cagliostro.mp3"
+            ]
+        },
+        "catbaby_psychicer": {
+            "songs": [
+                "catbaby_psychicer.mp3"
+            ]
+        },
+        "clarisse": {
+            "songs": [
+                "clarisse.mp3"
+            ]
+        },
+        "combat_animal": {
+            "songs": [
+                "combat_animal.mp3"
+            ]
+        },
+        "combat_animal_meteor23": {
+            "songs": [
+                "combat_animal_meteor23.mp3"
+            ]
+        },
+        "combat_animal_xm21": {
+            "songs": [
+                "combat_animal_xm21.mp3"
+            ]
+        },
+        "combat_soldier": {
+            "songs": [
+                "combat_soldier.mp3"
+            ]
+        },
+        "combat_soldier_smr22": {
+            "songs": [
+                "combat_soldier_smr22.mp3"
+            ]
+        },
+        "commander": {
+            "songs": [
+                "commander.mp3"
+            ]
+        },
+        "compliment_oiran": {
+            "songs": [
+                "compliment_oiran.mp3"
+            ]
+        },
+        "compliment_oiran_xm22": {
+            "songs": [
+                "compliment_oiran_xm22.mp3"
+            ]
+        },
+        "crystal_swordman": {
+            "songs": [
+                "crystal_swordman.mp3"
+            ]
+        },
+        "cursed_girl": {
+            "songs": [
+                "cursed_girl.mp3"
+            ]
+        },
+        "cyber_battergirl": {
+            "songs": [
+                "cyber_battergirl.mp3"
+            ]
+        },
+        "dakuness": {
+            "songs": [
+                "dakuness.mp3"
+            ]
+        },
+        "dark_psygirl": {
+            "songs": [
+                "dark_psygirl.mp3"
+            ]
+        },
+        "dark_psygirl_dst21": {
+            "songs": [
+                "dark_psygirl_dst21.mp3"
+            ]
+        },
+        "dark_psygirl_vt23": {
+            "songs": [
+                "dark_psygirl_vt23.mp3"
+            ]
+        },
+        "desert_commander": {
+            "songs": [
+                "desert_commander.mp3"
+            ]
+        },
+        "devil_leader": {
+            "songs": [
+                "devil_leader.mp3"
+            ]
+        },
+        "devil_princess_xm20": {
+            "songs": [
+                "devil_princess_xm20.mp3"
+            ]
+        },
+        "dimension_witch": {
+            "songs": [
+                "dimension_witch.mp3"
+            ]
+        },
+        "dimension_witch_ny22": {
+            "songs": [
+                "dimension_witch_ny22.mp3"
+            ]
+        },
+        "dimension_witch_smr20": {
+            "songs": [
+                "dimension_witch_smr20.mp3"
+            ]
+        },
+        "doctor_pirate": {
+            "songs": [
+                "doctor_pirate.mp3"
+            ]
+        },
+        "dog_slasher_proud": {
+            "songs": [
+                "dog_slasher_proud.mp3"
+            ]
+        },
+        "drawing_witch": {
+            "songs": [
+                "drawing_witch.mp3"
+            ]
+        },
+        "dryad_hw23": {
+            "songs": [
+                "dryad_hw23.mp3"
+            ]
+        },
+        "elder_guild_fighter": {
+            "songs": [
+                "elder_guild_fighter.mp3"
+            ]
+        },
+        "elf_princess": {
+            "songs": [
+                "elf_princess.mp3"
+            ]
+        },
+        "elf_princess_1halfanv": {
+            "songs": [
+                "elf_princess_1halfanv.mp3"
+            ]
+        },
+        "estateguild_leader": {
+            "songs": [
+                "estateguild_leader.mp3"
+            ]
+        },
+        "evilloli_master": {
+            "songs": [
+                "evilloli_master.mp3"
+            ]
+        },
+        "fire_dragon": {
+            "songs": [
+                "wagner_2.mp3"
+            ]
+        },
+        "fire_dragon_zenith": {
+            "songs": [
+                "fire_dragon_zenith.mp3"
+            ]
+        },
+        "flame_blessgirl": {
+            "songs": [
+                "flame_blessgirl.mp3"
+            ]
+        },
+        "fox_oracle_smr21": {
+            "songs": [
+                "fox_oracle_smr21.mp3"
+            ]
+        },
+        "fox_oracle_xm19": {
+            "songs": [
+                "christmas_fox_oracle.mp3"
+            ]
+        },
+        "freeze_eye": {
+            "songs": [
+                "freeze_eye.mp3"
+            ]
+        },
+        "freeze_eye_xm21": {
+            "songs": [
+                "freeze_eye_xm21.mp3"
+            ]
+        },
+        "general_toyakiren": {
+            "songs": [
+                "general_toyakiren.mp3"
+            ]
+        },
+        "general_toyakiren_ny23": {
+            "songs": [
+                "general_toyakiren_ny23.mp3"
+            ]
+        },
+        "gentle_barten": {
+            "songs": [
+                "gentle_barten.mp3"
+            ]
+        },
+        "ghost_nymph": {
+            "songs": [
+                "ghost_nymph.mp3"
+            ]
+        },
+        "girl_and_mecha": {
+            "songs": [
+                "girl_and_mecha.mp3"
+            ]
+        },
+        "golden_dragon_jr": {
+            "songs": [
+                "golden_dragon_jr.mp3"
+            ]
+        },
+        "gold_ship": {
+            "songs": [
+                "gold_ship.mp3"
+            ]
+        },
+        "golemclub_captain": {
+            "songs": [
+                "golemclub_captain.mp3"
+            ]
+        },
+        "guildknight_leader": {
+            "songs": [
+                "guildknight_leader.mp3"
+            ]
+        },
+        "guild_front_girl_playable": {
+            "songs": [
+                "guild_front_girl_playable.mp3"
+            ]
+        },
+        "halberd_princess": {
+            "songs": [
+                "halberd_princess.mp3"
+            ]
+        },
+        "halberd_princess_2halfanv": {
+            "songs": [
+                "halberd_princess_2halfanv.mp3"
+            ]
+        },
+        "heavenly_four": {
+            "songs": [
+                "heavenly_four.mp3"
+            ]
+        },
+        "heavenly_one": {
+            "songs": [
+                "heavenly_one.mp3"
+            ]
+        },
+        "heavenly_three": {
+            "songs": [
+                "heavenly_three.mp3"
+            ]
+        },
+        "heavenly_two": {
+            "songs": [
+                "heavenly_two.mp3"
+            ]
+        },
+        "heavenly_two_vt23": {
+            "songs": [
+                "heavenly_two_vt23.mp3"
+            ]
+        },
+        "hero_girl_vt22": {
+            "songs": [
+                "hero_girl_vt22.mp3"
+            ]
+        },
+        "high_priestess": {
+            "songs": [
+                "high_priestess.mp3"
+            ]
+        },
+        "high_priestess_ny22": {
+            "songs": [
+                "high_priestess_ny22.mp3"
+            ]
+        },
+        "holysword_girl": {
+            "songs": [
+                "holysword_girl.mp3"
+            ]
+        },
+        "holy_mother": {
+            "songs": [
+                "holy_mother.mp3"
+            ]
+        },
+        "horn_leader": {
+            "songs": [
+                "horn_leader.mp3"
+            ]
+        },
+        "horn_mypace": {
+            "songs": [
+                "horn_mypace.mp3"
+            ]
+        },
+        "ice_dragon": {
+            "songs": [
+                "ice_dragon.mp3"
+            ]
+        },
+        "ice_witch": {
+            "songs": [
+                "ice_witch.mp3"
+            ]
+        },
+        "ice_witch_2anv": {
+            "songs": [
+                "ice_witch_2anv.mp3"
+            ]
+        },
+        "illusionist_smr20": {
+            "songs": [
+                "illusionist_smr20.mp3"
+            ]
+        },
+        "impostor_priest": {
+            "songs": [
+                "impostor_priest.mp3"
+            ]
+        },
+        "justice_lady": {
+            "songs": [
+                "justice_lady.mp3"
+            ]
+        },
+        "katana_ghost": {
+            "songs": [
+                "murakumo.mp3"
+            ]
+        },
+        "katana_ghost_wt22": {
+            "songs": [
+                "katana_ghost_wt22.mp3"
+            ]
+        },
+        "kokkoro": {
+            "songs": [
+                "kokkoro.mp3"
+            ]
+        },
+        "kunoichi_1anv": {
+            "songs": [
+                "kunoichi_1anv.mp3"
+            ]
+        },
+        "kyaru": {
+            "songs": [
+                "kyaru.mp3"
+            ]
+        },
+        "kyouka": {
+            "songs": [
+                "kyouka.mp3"
+            ]
+        },
+        "lady_summoner_xm20": {
+            "songs": [
+                "lady_summoner_xm20.mp3"
+            ]
+        },
+        "lakeside_guardian": {
+            "songs": [
+                "lakeside_guardian.mp3"
+            ]
+        },
+        "lamp_guide": {
+            "songs": [
+                "lamp_guide.mp3"
+            ]
+        },
+        "light": {
+            "songs": [
+                "animal_light.mp3"
+            ]
+        },
+        "lightbullet_wiz_ny20": {
+            "songs": [
+                "lightbullet_wiz_ny20.mp3"
+            ]
+        },
+        "lightbullet_wiz_vt21": {
+            "songs": [
+                "lightbullet_wiz_vt21.mp3"
+            ]
+        },
+        "light_adventurer_4anv": {
+            "songs": [
+                "light_adventurer_4anv.mp3"
+            ]
+        },
+        "light_ballot23": {
+            "songs": [
+                "light_ballot23.mp3"
+            ]
+        },
+        "lion_boy_smr23": {
+            "songs": [
+                "lion_boy_smr23.mp3"
+            ]
+        },
+        "lion_swordman_playable": {
+            "songs": [
+                "lion_swordman_playable.mp3"
+            ]
+        },
+        "little_vampire": {
+            "songs": [
+                "little_vampire.mp3"
+            ]
+        },
+        "luca_playable": {
+            "songs": [
+                "luca_playable.mp3"
+            ]
+        },
+        "machine_police_girl": {
+            "songs": [
+                "machine_police_girl.mp3"
+            ]
+        },
+        "machine_police_girl_smr21": {
+            "songs": [
+                "machine_police_girl_smr21.mp3"
+            ]
+        },
+        "magatama_spirit": {
+            "songs": [
+                "magatama_spirit.mp3"
+            ]
+        },
+        "magical_bayonetter_premaster": {
+            "songs": [
+                "magical_bayonetter_premaster.mp3"
+            ]
+        },
+        "marching_conductor": {
+            "songs": [
+                "marching_conductor.mp3"
+            ]
+        },
+        "megumin": {
+            "songs": [
+                "megumin.mp3"
+            ]
+        },
+        "mercenary": {
+            "songs": [
+                "mercenary.mp3"
+            ]
+        },
+        "mercenary_smr21": {
+            "songs": [
+                "mercenary_smr21.mp3"
+            ]
+        },
+        "mermaid_1halfanv": {
+            "songs": [
+                "mermaid_1halfanv.mp3"
+            ]
+        },
+        "mighty_striker": {
+            "songs": [
+                "mighty_striker.mp3"
+            ]
+        },
+        "mimi": {
+            "songs": [
+                "mimi.mp3"
+            ]
+        },
+        "mirror_witch": {
+            "songs": [
+                "mirror_witch.mp3"
+            ]
+        },
+        "misogi": {
+            "songs": [
+                "misogi.mp3"
+            ]
+        },
+        "mob_jiguza_playable": {
+            "songs": [
+                "mob_jiguza_playable.mp3"
+            ]
+        },
+        "monster_cook_smr22": {
+            "songs": [
+                "monster_cook_smr22.mp3"
+            ]
+        },
+        "navy_officer": {
+            "songs": [
+                "navy_officer.mp3"
+            ]
+        },
+        "neoviolin_musician": {
+            "songs": [
+                "neoviolin_musician_entertainer.mp3",
+                "neoviolin_musician_menuette.mp3",
+                "neoviolin_musician_violin_only.mp3"
+            ]
+        },
+        "neoviolin_musician_hw21": {
+            "songs": [
+                "neoviolin_musician_hw21.mp3"
+            ]
+        },
+        "neoviolin_musician_hw21_noroop": {
+            "songs": [
+                "neoviolin_musician_hw21_noroop.mp3"
+            ]
+        },
+        "nihilist_mechgirl": {
+            "songs": [
+                "nihilist_mechgirl.mp3"
+            ]
+        },
+        "noble_sorceress": {
+            "songs": [
+                "noble_sorceress.mp3"
+            ]
+        },
+        "nova_4anv": {
+            "songs": [
+                "nova_4anv.mp3"
+            ]
+        },
+        "octcyborg_lady": {
+            "songs": [
+                "octcyborg_lady.mp3"
+            ]
+        },
+        "olivia": {
+            "songs": [
+                "olivia.mp3"
+            ]
+        },
+        "onmyoji_boy_wt21": {
+            "songs": [
+                "onmyoji_boy_wt21.mp3"
+            ]
+        },
+        "palpebra_knight_lady_hw22": {
+            "songs": [
+                "palpebra_knight_lady_hw22.mp3"
+            ]
+        },
+        "pbc_ceo_playable": {
+            "songs": [
+                "pbc_ceo_playable.mp3"
+            ]
+        },
+        "pecorine": {
+            "songs": [
+                "pecorine.mp3"
+            ]
+        },
+        "pirates_girl": {
+            "songs": [
+                "marina_1.mp3"
+            ]
+        },
+        "pirates_girl_2anv": {
+            "songs": [
+                "pirates_girl_2anv.mp3"
+            ]
+        },
+        "pirates_of_fear": {
+            "songs": [
+                "pirates_of_fear.mp3"
+            ]
+        },
+        "priest_prince_playable": {
+            "songs": [
+                "priest_prince_playable.mp3"
+            ]
+        },
+        "prince_zero": {
+            "songs": [
+                "lasert_prince_zero.mp3"
+            ]
+        },
+        "prince_zero_smr20": {
+            "songs": [
+                "prince_zero_smr20.mp3"
+            ]
+        },
+        "psychic_gal": {
+            "songs": [
+                "psychic_gal.mp3"
+            ]
+        },
+        "psychic_katana": {
+            "songs": [
+                "psychic_katana.mp3"
+            ]
+        },
+        "psychic_nao_3halfanv": {
+            "songs": [
+                "psychic_nao_3halfanv.mp3"
+            ]
+        },
+        "psychic_projection_smr23": {
+            "songs": [
+                "psychic_projection_smr23.mp3"
+            ]
+        },
+        "psychic_shouta": {
+            "songs": [
+                "psychic_shouta.mp3"
+            ]
+        },
+        "psychic_shouta_smr22": {
+            "songs": [
+                "psychic_shouta_smr22.mp3"
+            ]
+        },
+        "psychic_taichi": {
+            "songs": [
+                "psychic_taichi.mp3"
+            ]
+        },
+        "psychic_teleport_playable": {
+            "songs": [
+                "psychic_teleport_playable.mp3"
+            ]
+        },
+        "psychic_tohru": {
+            "songs": [
+                "psychic_tohru.mp3"
+            ]
+        },
+        "psychic_yamikawa": {
+            "songs": [
+                "psychic_yamikawa.mp3"
+            ]
+        },
+        "psychic_yamikawa_smr23": {
+            "songs": [
+                "psychic_yamikawa_smr23.mp3"
+            ]
+        },
+        "psychic_yuki": {
+            "songs": [
+                "psychic_yuki.mp3"
+            ]
+        },
+        "psychic_yuki_ny23": {
+            "songs": [
+                "psychic_yuki_ny23.mp3"
+            ]
+        },
+        "psycho_reaper_meteor23": {
+            "songs": [
+                "psycho_reaper_meteor23.mp3"
+            ]
+        },
+        "rector_sorcerer_playable": {
+            "songs": [
+                "rector_sorcerer_playable.mp3"
+            ]
+        },
+        "rec_android_1anv": {
+            "songs": [
+                "rec_android_1anv.mp3"
+            ]
+        },
+        "resistance_princess_3halfanv": {
+            "songs": [
+                "resistance_princess_3halfanv.mp3"
+            ]
+        },
+        "resistance_princess_smr21": {
+            "songs": [
+                "resistance_princess_smr21.mp3"
+            ]
+        },
+        "ruin_girl": {
+            "songs": [
+                "ruin_girl.mp3"
+            ]
+        },
+        "ruin_girl_3halfanv": {
+            "songs": [
+                "ruin_girl_3halfanv.mp3"
+            ]
+        },
+        "ruin_girl_halfanv": {
+            "songs": [
+                "ruin_girl_halfanv.mp3"
+            ]
+        },
+        "ruin_girl_smr21": {
+            "songs": [
+                "ruin_girl_smr21.mp3"
+            ]
+        },
+        "ruin_lady_meteor23": {
+            "songs": [
+                "ruin_lady_meteor23.mp3"
+            ]
+        },
+        "samurai_robot": {
+            "songs": [
+                "samurai_robot.mp3"
+            ]
+        },
+        "samurai_robot_smr22": {
+            "songs": [
+                "samurai_robot_smr22.mp3"
+            ]
+        },
+        "samurai_xm19": {
+            "songs": [
+                "christmas_samurai.mp3"
+            ]
+        },
+        "shadow_redhood": {
+            "songs": [
+                "shadow_redhood.mp3"
+            ]
+        },
+        "silence_suzuka": {
+            "songs": [
+                "silence_suzuka.mp3"
+            ]
+        },
+        "silent_ninja": {
+            "songs": [
+                "silent_ninja.mp3"
+            ]
+        },
+        "sing_android_2halfanv": {
+            "songs": [
+                "sing_android_2halfanv.mp3"
+            ]
+        },
+        "sing_android_hw20": {
+            "songs": [
+                "sing_android_hw20.mp3"
+            ]
+        },
+        "special_week": {
+            "songs": [
+                "special_week.mp3"
+            ]
+        },
+        "spider_ninja": {
+            "songs": [
+                "spider_ninja.mp3"
+            ]
+        },
+        "starbreak_hunter": {
+            "songs": [
+                "starbreak_hunter.mp3"
+            ]
+        },
+        "starbreak_hunter_meteor23": {
+            "songs": [
+                "starbreak_hunter_meteor23.mp3"
+            ]
+        },
+        "stella_ballot23": {
+            "songs": [
+                "stella_ballot23.mp3"
+            ]
+        },
+        "stella_copy_4anv": {
+            "songs": [
+                "stella_copy_4anv.mp3"
+            ]
+        },
+        "still_obstinator": {
+            "songs": [
+                "still_obstinator.mp3"
+            ]
+        },
+        "still_obstinator_ballot23": {
+            "songs": [
+                "still_obstinator_ballot23.mp3"
+            ]
+        },
+        "summoner_little": {
+            "songs": [
+                "summoner_little.mp3"
+            ]
+        },
+        "summoner_little_2anv": {
+            "songs": [
+                "summoner_little_2anv.mp3"
+            ]
+        },
+        "summoner_little_smr23": {
+            "songs": [
+                "summoner_little_smr23.mp3"
+            ]
+        },
+        "super_robot": {
+            "songs": [
+                "super_robot.mp3"
+            ]
+        },
+        "swallow_knight_3anv": {
+            "songs": [
+                "swallow_knight_3anv.mp3"
+            ]
+        },
+        "tengu_master": {
+            "songs": [
+                "tengu_master.mp3"
+            ]
+        },
+        "thunder_archer": {
+            "songs": [
+                "thunder_archer.mp3"
+            ]
+        },
+        "tiger_treasure_hunter_smr20": {
+            "songs": [
+                "tiger_treasure_hunter_smr20.mp3"
+            ]
+        },
+        "tiger_treasure_hunter_xm22": {
+            "songs": [
+                "tiger_treasure_hunter_xm22.mp3"
+            ]
+        },
+        "timid_kunoichi_ny21": {
+            "songs": [
+                "timid_kunoichi_ny21.mp3"
+            ]
+        },
+        "touyakiren_ceo_hw21": {
+            "songs": [
+                "touyakiren_ceo_hw21.mp3"
+            ]
+        },
+        "tsundere_bountyhunter": {
+            "songs": [
+                "tsundere_bountyhunter.mp3"
+            ]
+        },
+        "tsundere_bountyhunter_vt22": {
+            "songs": [
+                "tsundere_bountyhunter_vt22.mp3"
+            ]
+        },
+        "vesta_caster": {
+            "songs": [
+                "vesta_caster.mp3"
+            ]
+        },
+        "veteran_hunter": {
+            "songs": [
+                "veteran_hunter.mp3"
+            ]
+        },
+        "veteran_hunter_3anv": {
+            "songs": [
+                "veteran_hunter_3anv.mp3"
+            ]
+        },
+        "warlock_2halfanv": {
+            "songs": [
+                "warlock_2halfanv.mp3"
+            ]
+        },
+        "waste_armor": {
+            "songs": [
+                "waste_armor.mp3"
+            ]
+        },
+        "waterdragon_kunfu": {
+            "songs": [
+                "waterdragon_kunfu.mp3"
+            ]
+        },
+        "waterdragon_kunfu_proud": {
+            "songs": [
+                "waterdragon_kunfu_proud.mp3"
+            ]
+        },
+        "white_tiger_2anv": {
+            "songs": [
+                "white_tiger_2anv.mp3"
+            ]
+        },
+        "wind_dragon": {
+            "songs": [
+                "wind_dragon.mp3"
+            ]
+        },
+        "wind_dragon_wt22": {
+            "songs": [
+                "wind_dragon_wt22.mp3"
+            ]
+        },
+        "wind_oracle": {
+            "songs": [
+                "wind_oracle.mp3"
+            ]
+        },
+        "wind_oracle_1anv": {
+            "songs": [
+                "wind_oracle_1anv.mp3"
+            ]
+        },
+        "wind_oracle_meteor23": {
+            "songs": [
+                "wind_oracle_meteor23.mp3"
+            ]
+        },
+        "wind_spbro_3anv": {
+            "songs": [
+                "wind_spbro_3anv.mp3"
+            ]
+        },
+        "wind_spgirl": {
+            "songs": [
+                "silty_1.mp3"
+            ]
+        },
+        "wind_spgirl_1anv": {
+            "songs": [
+                "wind_spgirl_1anv.mp3"
+            ]
+        },
+        "wind_spgirl_4anv": {
+            "songs": [
+                "wind_spgirl_4anv.mp3"
+            ]
+        },
+        "wind_spgirl_hw22": {
+            "songs": [
+                "wind_spgirl_hw22.mp3"
+            ]
+        },
+        "wirfled_playable": {
+            "songs": [
+                "wirfled_playable.mp3"
+            ]
+        },
+        "yokai_exterminator": {
+            "songs": [
+                "yokai_exterminator.mp3"
+            ]
+        },
+        "zeta": {
+            "songs": [
+                "zeta.mp3",
+                "zeta_arrange.mp3"
+            ]
+        },
+        "z_collabo_character": {
+            "songs": [
+                "z_collabo_story_character_unique.mp3",
+                "z_collabo_story_deathmetal.mp3",
+                "z_collabo_story_normal.mp3"
+            ]
+        }
+    }
+}
